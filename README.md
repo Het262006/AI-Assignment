@@ -34,11 +34,12 @@
 
 # Key Features
 **Establishment of Sales Entry System:**
-An interface that will be used for entering sales records. 
+An interface that will be used for entering sales records.
+
 Support multiple product categories. 
 
 **Real-Time Visualization of Data:**
-Graphs representing a trend of sales (daily, weekly, monthly). 
+1Graphs representing a trend of sales (daily, weekly, monthly). 
 Stock level indicator of each product.
 
 **Home Inventory Management:**
