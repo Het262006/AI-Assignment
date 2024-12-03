@@ -16,3 +16,26 @@
 8.Visualization trends and high performers on maps. 
 9.Incorporate necessary tight security measures for sales and customer data. 
 10.Compliance with Data Protection Policies such as GDPR or CCPA.
+11.In case, your product tracker specializes in a particular industry (retail, manufacturing, e-commerce, etc.), you can probably create objectives for it in consideration to the industry-specific needs such as tracking by batch, return processing, seasonal trends, etc.
+# Key Features
+**Establishment of Sales Entry System:**
+An interface that will be used for entering sales records. 
+Support multiple product categories. 
+
+**Real-Time Visualization of Data:**
+Graphs representing a trend of sales (daily, weekly, monthly). 
+Stock level indicator of each product.
+
+**Home Inventory Management:**
+Alerts: 
+Low stock alert. 
+Automatic inventory update after each sales transaction.
+
+**Analytics Dashboard:**
+Bestsellers. 
+Insights into revenue generation. 
+Sales performance by category and region.
+
+**Interactive Interface:**
+Responsive interface for web/mobile. 
+It's user friendly with filters and sorting.
