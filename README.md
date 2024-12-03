@@ -34,24 +34,47 @@
 
 # Key Features
 **Establishment of Sales Entry System:**
-An interface that will be used for entering sales records.
-
-Support multiple product categories. 
+1.An interface that will be used for entering sales records.
+2.Support multiple product categories. 
 
 **Real-Time Visualization of Data:**
-1Graphs representing a trend of sales (daily, weekly, monthly). 
-Stock level indicator of each product.
+1.Graphs representing a trend of sales (daily, weekly, monthly). 
+2.Stock level indicator of each product.
 
 **Home Inventory Management:**
-Alerts: 
-Low stock alert. 
-Automatic inventory update after each sales transaction.
+1.Alerts: 
+2.Low stock alert. 
+3.Automatic inventory update after each sales transaction.
 
 **Analytics Dashboard:**
-Bestsellers. 
-Insights into revenue generation. 
-Sales performance by category and region.
+1.Bestsellers. 
+2.Insights into revenue generation. 
+3.Sales performance by category and region.
 
 **Interactive Interface:**
-Responsive interface for web/mobile. 
-It's user friendly with filters and sorting.
+1.Responsive interface for web/mobile. 
+2.It's user friendly with filters and sorting.
+# Tools and Libraries used
+**Frontend:**
+
+In the Web: HTML, CSS, JavaScript (Framework: be it React or Vue.js).
+Mobile: Flutter or React Native (optional).
+
+**Backend:**
+
+Node.js, Python (Flask/Django), or PHP for logic.
+RESTful API for data exchange.
+
+**Database:**
+
+Relational: MySQL/PostgreSQL for conventional products and sales data.
+Non-Relational: MongoDB for not-so-structured data storage.
+
+**Data Visualization:**
+
+Libraries: Chart.js, D3.js, or Plotly.
+
+**Optional Hardware Integration:**
+
+Barcode scanner for automatic product entry.
+RFID for real-time inventory tracking.
