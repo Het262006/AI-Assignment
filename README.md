@@ -98,3 +98,19 @@ RFID for real-time inventory tracking.
 The dataset which we use for this Assigenment is taken from the kaggle.
 
 Website Link:-https://www.kaggle.com/
+
+# Execution Steps
+
+1.Take the data set(csv file) from Kaggle
+
+2.Open a New notebook in google colab
+
+3.Uplod the csv file which we downloaded into the folder of google colab
+
+4.Then Execute the python code using pandas for dataset
+
+5.Make a bar graph,Line Chart And Histogram Using Matplotlib libraries
+
+6.Save each copy directly into the repository of the github
+
+
