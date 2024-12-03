@@ -93,3 +93,8 @@ Libraries: Chart.js, D3.js, or Plotly.
 Barcode scanner for automatic product entry.
 
 RFID for real-time inventory tracking.
+
+# Data Source
+The dataset which we use for this Assigenment is taken from the kaggle.
+
+Website Link:-https://www.kaggle.com/
