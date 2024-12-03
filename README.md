@@ -113,4 +113,20 @@ Website Link:-https://www.kaggle.com/
 
 6.Save each copy directly into the repository of the github
 
+# Challenges faced
 
+1.Choosing a Correct Dataset
+
+2.Using Libraries
+
+3.Making a pie char,Bar graph and Line chart
+
+4.saving into the github repository
+
+5.Making a proper Readme file
+
+# Conclusion
+
+Constructing an AI-powered Interactive Product Sales Tracker is thus a huge scope between automation of sales processes with inventory optimization and actionable business value. However, while developing it, it comes with considerable challenges such as data quality, system complexity, user adoption, cost, and scalability.
+
+Also, it is recommended to start small withsomefocused use cases, embracing agile development and continuous improvement of the interaction system based on user feedback and trends. With the right approach, the AI-enabled sales tracker becomes one of the highly useful tools that modern businesses require to drive their growth and efficiency.
