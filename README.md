@@ -3,6 +3,8 @@
 # Group Members
 **1.Dudhat Tirth**: KU2407U530
 
+**3.Palak Trivedi:** KU2407U531
+
 **2.Heer Patel:** KU2407U532
 
 **3.Het Patel:** KU2407U533
