@@ -3,11 +3,11 @@
 # Group Members
 **1.Dudhat Tirth**: KU2407U530
 
-**3.Palak Trivedi:** KU2407U531
+**2.Palak Trivedi:** KU2407U531
 
-**2.Heer Patel:** KU2407U532
+**3.Heer Patel:** KU2407U532
 
-**3.Het Patel:** KU2407U533
+**4.Het Patel:** KU2407U533
 
 # Objective of the project
 1.Create a dynamic system for real-time sales tracking, visualization of stock quantities, updates on the inventory status, and analytical insights regarding product sales.
