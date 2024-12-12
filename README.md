@@ -80,13 +80,13 @@ RESTful API for data exchange.
 
 **Database:**
 
-Relational: MySQL/PostgreSQL for conventional products and sales data.
+Relational:  conventional products and sales data.
 
 Non-Relational: MongoDB for not-so-structured data storage.
 
 **Data Visualization:**
 
-Libraries: Chart.js, D3.js, or Plotly.
+Libraries: Pandas and Matplotlib.
 
 **Optional Hardware Integration:**
 
